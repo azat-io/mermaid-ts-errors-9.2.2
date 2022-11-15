@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "importsNotUsedAsValues": "error",
+    "moduleResolution": "nodenext",
+    "preserveValueImports": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "module": "esnext",
+    "target": "es2020",
+    "jsx": "preserve",
+    "allowJs": true,
+    "strict": true,
+    "baseUrl": ".",
+    "noEmit": true
+  },
+  "include": ["**/*.ts"],
+  "exclude": ["node_modules"]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "mermaid-example",
+  "type": "module",
+  "scripts": {
+    "test": "tsc --noEmit --pretty"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "mermaid": "^9.2.2",
+    "typescript": "^4.8.4"
+  }
+}
