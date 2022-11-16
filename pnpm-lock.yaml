@@ -1,11 +1,11 @@
 lockfileVersion: 5.4
 
 specifiers:
-  mermaid: ^9.2.2
+  mermaid: 9.2.3-rc.1
   typescript: ^4.8.4
 
 dependencies:
-  mermaid: 9.2.2
+  mermaid: 9.2.3-rc.1
   typescript: 4.8.4
 
 packages:
@@ -551,8 +551,8 @@ packages:
     resolution: {integrity: sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==}
     dev: false
 
-  /mermaid/9.2.2:
-    resolution: {integrity: sha512-6s7eKMqFJGS+0MYjmx8f6ZigqKBJVoSx5ql2gw6a4Aa+WJ49QiEJg7gPwywaBg3DZMs79UP7trESp4+jmaQccw==}
+  /mermaid/9.2.3-rc.1:
+    resolution: {integrity: sha512-atOhLdmFPOi7DnstXbh/WA8huq3TgvKqu/3rj+Cn4ooLfYMhyUjXwKVmNhjEhALgiEVQ9YuuN/E+K+pShQNG8g==}
     dependencies:
       '@braintree/sanitize-url': 6.0.2
       d3: 7.6.1
