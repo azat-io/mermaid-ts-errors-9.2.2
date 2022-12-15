@@ -6,7 +6,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "mermaid": "9.2.3-rc.1",
+    "mermaid": "^9.3.0",
     "typescript": "^4.8.4"
   }
 }
